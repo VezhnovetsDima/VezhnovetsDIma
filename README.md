@@ -1,5 +1,5 @@
 # Hi everyone! 👋
-## I'm Dima, a passionate FullStack Developer ☕️
+*I'm Dima, a passionate FullStack Developer ☕️*
 ## 🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
 - 💼 **Current Role**: FullStack Developer at <a href="https://www.sberbank.ru/ru/person">Sber</a>
