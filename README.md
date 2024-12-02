@@ -1,14 +1,12 @@
 # Hi everyone! 👋
 
 ### I'm Dima, FullStack Dev ☕️(Java/Kotlin - backend, Angular - frontend)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Dima%22;public+String+lastName+%3C +%22Vezhnovets%22;public+String+university+%3D+%22STANKIN%22;%7D)]
+
 ### About Me:
 - **Education**: Computer Science Engineer at STANKIN University (Moscow)
 - **Current Role**: FullStack Developer at Sber (Loyalty tribe)
 - **Skills**: Proficient in Java, Kotlin development, frontend technologies, and DevOps practices
 - **Interests**: Economics, Cryptocurrency, Software Architecture
-
-(https://git.io/typing-svg)
 ___
 <h3 align="center">My Skills</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
