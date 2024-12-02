@@ -14,7 +14,7 @@ I'm Dima, a passionate FullStack Developer ☕️
   - Software Architecture 🏛️
 ___
 
-<div style="display: none;">
+<div style="display: none;>
   <style>
   .skill-grid {
     display: grid;
