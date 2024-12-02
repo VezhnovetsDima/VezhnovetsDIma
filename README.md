@@ -1,14 +1,12 @@
 # Hi everyone! 👋
 
-### I'm Dima, FullStack Dev ☕️(Java/Kotlin - backend, Angular - frontend)
-
 ##🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
 - 💼 **Current Role**: FullStack Developer at <a href="https://www.sberbank.ru/ru/person">Sber</a>
 - 🛠️ **Skills**:
   -  Backend: Java, Kotlin
   -  Frontend: AngularJS
-  -  Orchestrating with Kubernetes
+  -  Orchestrating: with Kubernetes
 - 💡 **Interests**:
   - Economics 📈
   - Cryptocurrency 💰
@@ -41,7 +39,7 @@ ___
 <h3>My professional skills and technologies I worked with: </h3>
 <div class="skill-grid">
   <div class="skill-row">
-    <h4>Backend Development</h4>
+    <h4>🖥️ Backend Development</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=&logoColor=/">
       <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -56,7 +54,7 @@ ___
   </div>
 
   <div class="skill-row">
-    <h4>Frontend Development</h4>
+    <h4>🎨Frontend Development</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -64,7 +62,7 @@ ___
     </div>
   </div>
   <div class="skill-row">
-    <h4>Database Management</h4>
+    <h4>🗄️ Database Management</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -74,14 +72,14 @@ ___
     </div>
   </div>
   <div class="skill-row">
-    <h4>DevOps & Tools</h4>
+    <h4>⚙️ DevOps & Tools</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     </div>
   </div>
   <div class="skill-row">
-    <h4>Additional Tools</h4>
+    <h4>🛠️ Additional Tools</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white">
       <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white">
