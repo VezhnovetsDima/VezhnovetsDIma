@@ -36,7 +36,7 @@ ___
   }
 
   .skil-icons img {
-    border-radius: 5px;
+    border-radius: 10px;
   }
   </style>
 </div>
