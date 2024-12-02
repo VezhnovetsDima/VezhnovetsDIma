@@ -9,7 +9,8 @@
 - **Interests**: Economics, Cryptocurrency, Software Architecture
 ___
 
-<style>
+<head>
+  <style>
   .skill-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -29,8 +30,8 @@ ___
     display: flex;
     gap: 1rem;
   }
-</style>
-
+  </style>
+</head>
 <h3 align="center">My Skills</h3>
 <div class="skill-grid">
   <div class="skill-row">
