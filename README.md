@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Dima%22;public+String+lastName+%3D+%22Vezhnovets%22;public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
 ___
-<h3 align="center">Skils</h3>
+<h3 align="center">Skills</h3>
 <div style="display=flex">
   <img src = "https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=&logoColor=/">
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -35,11 +35,11 @@ ___
 </p>
 <h3 align="center"> My social media: </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://web.telegram.org/k/#@Verefrint"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://web.telegram.org/k/#@Verefrint">
 </br> 
 <div>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</div>
 </br> 
 <div>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</div>
 </br> 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Verefrint&color=blue&labelColor=black&link=https://web.telegram.org/k/#@Verefrint"></a>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&color=blue">
 
