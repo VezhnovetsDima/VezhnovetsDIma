@@ -2,11 +2,17 @@
 
 ### I'm Dima, FullStack Dev ☕️(Java/Kotlin - backend, Angular - frontend)
 
-### About Me:
-- **Education**: Computer Science Engineer at STANKIN University (Moscow)
-- **Current Role**: FullStack Developer at Sber (https://www.sberbank.ru/ru/person)
-- **Skills**: Main profile is Java, Kotlin backend development. Also worked a lot with AngularJS, and Kubernetis
-- **Interests**: Economics, Cryptocurrency, Software Architecture
+##🌟 About Me:
+- 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
+- 💼 **Current Role**: FullStack Developer at Sber (https://www.sberbank.ru/ru/person)
+- 🛠️ **Skills**:
+  -  Backend: Java, Kotlin
+  -  Frontend: AngularJS
+  -  Orchestrating with Kubernetes
+- 💡 **Interests**:
+  - Economics 📈
+  - Cryptocurrency 💰
+  - Software Architecture 🏛️
 ___
 
 <div style="display: none;>
