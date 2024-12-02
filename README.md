@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi everyone! 👋
+### I'm Dima, FullStack Dev ☕️(Java/Kotlin - backend, Angular - frontend)
+### Student of Stankin University of Moscow
+### Now a FullStack developer in Sber(Loyalty tribe) <a href="https://www.sberbank.ru/ru/person"> <img src="https://img.shields.io/badge/company%website-DC51F7"></a>
 
-<!--
-**VezhnovetsDima/VezhnovetsDIma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Dima%22;public+String+lastName+%3D+%22Vezhnovets%22;public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
+___
+<h3 align="center">
+My technology stack: Backend</h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=&logoColor=/">
+<img src = "https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+<img src = "https://img.shields.io/badge/spring-green.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src = "https://img.shields.io/badge/Hibernate-yellow.svg?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">  
+<img src="https://img.shields.io/badge/GRPC-4285F4"> 
+<img src="https://img.shields.io/badge/Tomcat-F38020">
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">  
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+<img src="https://img.shields.io/badge/GRPC-DC51F7">
+<h3 align="center">
+My technology stack: frontend</h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">  
+<img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+<img src = "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<h3 align="center">
+My technology stack: Databases</h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/MySql-21332C.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src = "https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff"> 
+<img src = "https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">  
+<img src = "https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">  
+<img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+<img src = "https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
+<h3 align="center">
+Also worked with: </h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white">
+<img src = "https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+<img src = "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
-Here are some ideas to get you started:
+<br>
+</p>
+<h3 align="center"> My social media: </h3>
+<p align="center">
+<div>(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</div>  
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&message=vezhnovetsdima04@gmail.com&link=https://web.telegram.org/k/#@Verefrint"></a>
+</br> 
+<div>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</div>
+</br> 
+<div>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</div>
+</br> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Verefrint&color=blue&labelColor=black&link=https://web.telegram.org/k/#@Verefrint"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
