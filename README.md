@@ -32,7 +32,7 @@ ___
   }
   </style>
 </div>
-<h3 align="center">My Skills</h3>
+### About Me:
 <div class="skill-grid">
   <div class="skill-row">
     <h4>Backend Development</h4>
