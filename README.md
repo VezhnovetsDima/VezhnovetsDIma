@@ -34,6 +34,10 @@ ___
     display: flex;
     gap: 1rem;
   }
+
+  .skil-icons img {
+    border-radius: 5px;
+  }
   </style>
 </div>
 <h3>My professional skills and technologies I worked with: </h3>
