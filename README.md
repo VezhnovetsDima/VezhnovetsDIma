@@ -4,7 +4,7 @@
 
 ##🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
-- 💼 **Current Role**: FullStack Developer at Sber (https://www.sberbank.ru/ru/person)
+- 💼 **Current Role**: FullStack Developer at <a href="https://www.sberbank.ru/ru/person">Sber</a>
 - 🛠️ **Skills**:
   -  Backend: Java, Kotlin
   -  Frontend: AngularJS
