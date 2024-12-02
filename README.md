@@ -7,7 +7,7 @@ I'm Dima, a passionate FullStack Developer ☕️
 - 🛠️ **Skills**:
   -  Backend: Java, Kotlin
   -  Frontend: AngularJS
-  -  Orchestrating: with Kubernetes
+  -  Orchestrating: Kubernetes
 - 💡 **Interests**:
   - Economics 📈
   - Cryptocurrency 💰
