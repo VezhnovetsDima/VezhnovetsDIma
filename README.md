@@ -9,7 +9,7 @@
 - **Interests**: Economics, Cryptocurrency, Software Architecture
 ___
 
-<head>
+<div style="display: none;>
   <style>
   .skill-grid {
     display: grid;
@@ -31,7 +31,7 @@ ___
     gap: 1rem;
   }
   </style>
-</head>
+</div>
 <h3 align="center">My Skills</h3>
 <div class="skill-grid">
   <div class="skill-row">
@@ -42,6 +42,10 @@ ___
       <img src="https://img.shields.io/badge/spring-green.svg?style=for-the-badge&logo=spring&logoColor=white">
       <img src="https://img.shields.io/badge/Hibernate-yellow.svg?style=for-the-badge&logo=Hibernate&logoColor=white">
       <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+      <img src="https://img.shields.io/badge/GRPC-4285F4?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
     </div>
   </div>
 
@@ -53,7 +57,6 @@ ___
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </div>
   </div>
-
   <div class="skill-row">
     <h4>Database Management</h4>
     <div class="skill-icons">
@@ -64,19 +67,13 @@ ___
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
   </div>
-
   <div class="skill-row">
     <h4>DevOps & Tools</h4>
     <div class="skill-icons">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/GRPC-4285F4?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
-      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
-      <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     </div>
   </div>
-
   <div class="skill-row">
     <h4>Additional Tools</h4>
     <div class="skill-icons">
