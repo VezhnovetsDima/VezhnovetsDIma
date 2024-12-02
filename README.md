@@ -4,8 +4,8 @@
 
 ### About Me:
 - **Education**: Computer Science Engineer at STANKIN University (Moscow)
-- **Current Role**: FullStack Developer at Sber (Loyalty tribe)
-- **Skills**: Proficient in Java, Kotlin development, frontend technologies, and DevOps practices
+- **Current Role**: FullStack Developer at Sber (https://www.sberbank.ru/ru/person)
+- **Skills**: Main profile is Java, Kotlin backend development. Also worked a lot with AngularJS, and Kubernetis
 - **Interests**: Economics, Cryptocurrency, Software Architecture
 ___
 
@@ -32,7 +32,7 @@ ___
   }
   </style>
 </div>
-### About Me:
+<h3>My professional skills and technologies I worked with: </h3>
 <div class="skill-grid">
   <div class="skill-row">
     <h4>Backend Development</h4>
