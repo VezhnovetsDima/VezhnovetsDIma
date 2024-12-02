@@ -3,7 +3,7 @@
 ### Ended Stankin University(Moscow) as a "Computer science engeneer"
 ### Now a FullStack developer in Sber(Loyalty tribe) <a href="https://www.sberbank.ru/ru/person"> <img src="https://img.shields.io/badge/company%website-DC51F7"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;+%3D+public+String+name+%3D+%22Dima%22;+++public+String+lastName+%3D+%22Vezhnovets%22;+++public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=100&color=DC51F7&background=FFDCEA00&multiline=true&width=480&height=130&lines=public+class+User+%7B;public+String+name+%3D+%22Dima%22;public+String+lastName+%3D+%22Vezhnovets%22;public+String+university+%3D+%22STANKIN%22;%7D)](https://git.io/typing-svg)
 ___
 <h3 align="center">
 Skils</h3>
@@ -19,9 +19,9 @@ Skils</h3>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">  
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-<img src = "https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">  
-<img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-<img src = "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<img src = "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">  
+<img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src = "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">  
