@@ -39,15 +39,14 @@ My technology stack: Databases</h3>
 Also worked with: </h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white">
-<img src = "https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+<img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src = "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
 <br>
 </p>
 <h3 align="center"> My social media: </h3>
 <p align="center">
-<div>(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</div>  
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&message=vezhnovetsdima04@gmail.com&link=https://web.telegram.org/k/#@Verefrint"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://web.telegram.org/k/#@Verefrint"></a>
 </br> 
 <div>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</div>
 </br> 
