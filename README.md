@@ -9,7 +9,7 @@ ___
 My technology stack: Backend</h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=&logoColor=/">
-<img src = "https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+<img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src = "https://img.shields.io/badge/spring-green.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img src = "https://img.shields.io/badge/Hibernate-yellow.svg?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
@@ -19,7 +19,6 @@ My technology stack: Backend</h3>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">  
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-<img src="https://img.shields.io/badge/GRPC-DC51F7">
 <h3 align="center">
 My technology stack: frontend</h3>
 <p align="center">
