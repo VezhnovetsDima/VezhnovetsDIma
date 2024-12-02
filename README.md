@@ -30,9 +30,9 @@ My technology stack: frontend</h3>
 My technology stack: Databases</h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/MySql-21332C.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src = "https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff"> 
-<img src = "https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">  
-<img src = "https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">  
+<img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">  
+<img src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">  
 <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
 <img src = "https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
 <h3 align="center">
