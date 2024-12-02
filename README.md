@@ -1,4 +1,5 @@
 # Hi everyone! 👋
+##I'm Dima, a passionate FullStack Developer ☕️
 
 ##🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
@@ -35,9 +36,6 @@ ___
     gap: 1rem;
   }
 
-  .skil-icons img {
-    border-radius: 10px;
-  }
   </style>
 </div>
 <h3>My professional skills and technologies I worked with: </h3>
