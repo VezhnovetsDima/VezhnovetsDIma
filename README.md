@@ -12,10 +12,10 @@ My technology stack: Backend</h3>
 <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src = "https://img.shields.io/badge/spring-green.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img src = "https://img.shields.io/badge/Hibernate-yellow.svg?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src = "https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
-<img src = "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">  
-<img src="https://img.shields.io/badge/GRPC-4285F4"> 
-<img src="https://img.shields.io/badge/Tomcat-F38020">
+<img src = "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"> 
+<img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
+<img src = "https://img.shields.io/badge/GRPC-4285F4?style=for-the-badge">  
+<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">  
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
