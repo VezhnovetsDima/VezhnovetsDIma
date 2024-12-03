@@ -1,9 +1,9 @@
 # Hi everyone! 👋
-I'm Dima, a passionate FullStack Developer ☕️
+I'm Dima, a passionate Senior Java Developer ☕️
 
 ## 🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
-- 💼 **Current Role**: Senior Java Developer at <a href="https://www.sberbank.ru/ru/person">Sber</a>
+- 💼 **Current Role**: FullStack Developer(Java/Angular) at <a href="https://www.sberbank.ru/ru/person">Sber</a>
 - 🛠️ **Skills**:
   -  Backend: Java, Kotlin
   -  Frontend: AngularJS
