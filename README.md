@@ -12,6 +12,7 @@ I'm Dima, a passionate Senior Java Developer ☕️
   - Economics 📈
   - Cryptocurrency 💰
   - Software Architecture 🏛️
+  - Art 
 ___
 
 <div style="display: none;>
