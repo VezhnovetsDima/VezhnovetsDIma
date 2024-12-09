@@ -1,8 +1,8 @@
 # Hi everyone! 👋
 I'm Dima, a Senior Java Developer ☕️. I like creating efficient, scalable systems. I enjoy working on asynchronous applications and exploring the possibilities of modern concurrency models and distributed architectures. 
 ## 🌟 About Me:
-- 🎓 **Education**: Computer Science Engineer at STANKIN University (Moscow)
-- 💼 **Current Role**: FullStack Developer(Java/Angular) at <a href="https://www.sberbank.ru/ru/person">Sber</a>
+- 🎓 **Education**: Computer Science Engineer at Bauman Moscow State University.
+- 💼 **Current Role**: FullStack Developer(Java/Angular) at <a href="https://www.hsbc.com">HSBC</a>
 - 🛠️ **Skills**:
   -  Backend: Java, Kotlin
   -  Frontend: AngularJS
