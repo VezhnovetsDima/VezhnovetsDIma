@@ -1,17 +1,21 @@
 # Hi everyone! 👋
-I'm Dima, a Senior Java Developer ☕️. I like creating efficient, scalable systems. I enjoy working on asynchronous applications and exploring the possibilities of modern concurrency models and distributed architectures. 
+I'm Dima, a Web3 (Solidity) and Web2 (Java/Angular) Developer ☕️. I like creating efficient, scalable systems. I enjoy working on asynchronous applications and exploring the possibilities of modern concurrency models and distributed architectures.  
+In the blockchain space, I'm passionate about building secure smart contracts, contributing to DeFi protocols, and experimenting with on-chain logic to create real-world value through decentralized applications.
+ 
 ## 🌟 About Me:
 - 🎓 **Education**: Computer Science Engineer at Bauman Moscow State University.
-- 💼 **Current Role**: FullStack Developer(Java/Angular) at <a href="https://www.hsbc.com">HSBC</a>
+- 💼 **Current Role**: Full-Stack Blockchain Developer
 - 🛠️ **Skills**:
-  -  Backend: Java, Kotlin
-  -  Frontend: AngularJS
-  -  Orchestrating: Kubernetes
+  - Backend: Java, Kotlin
+  - Frontend: AngularJS
+  - Orchestrating: Kubernetes
 - 💡 **Interests**:
   - Economics 📈
   - Cryptocurrency 💰
+  - Web3 & Smart Contracts 🌐
   - Software Architecture 🏛️
   - Art 🎨
+
 ___
 
 <div style="display: none;>
@@ -39,9 +43,32 @@ ___
   </style>
 </div>
 
+## 🧪 Web3 Development
+
+Over the past 3 years, I've been actively building in the Web3 ecosystem — focusing on DeFi protocols, DAO tooling, and gamified dApps.
+
+- 🧩 Built and deployed DeFi quest platform interacting with protocols like Uniswap, Aave, and Lido (staking, swaps, lending)
+- 🔎 Created an EVM bytecode-to-opcode-to-solidity decoder for smart contract forensics and bytecode analysis
+- 🏗️ Developed dApps with Solidity, Foundry, Hardhat, Ethers.js, and React (Next.js)
+- 🛠 Integrated on-chain/off-chain infra with Chainlink Automation, The Graph, and IPFS
+- 🎮 Gamified savings and staking (PiggyHodl.xyz) using NFTs, vaults, and ERC-777 tokens
+- ⚙️ Secured protocols using fuzz testing (Foundry/Echidna), invariant checks, and gas optimizations
+
+Visit [https://piggyhodl.xyz](https://piggyhodl.xyz) to see one of the platforms I contributed to!
+
 
 <div class="skill-grid">
   <h3>My professional skills and technologies I worked with: </h3>
+
+  <div class="skill-row">
+    <h4>🧪 Web3 Development</h4>
+    <div class="skill-icons">
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+      <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
+      <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
+    </div>
+  </div>
+  
   <div class="skill-row">
     <h4>🖥️ Backend Development</h4>
     <div class="skill-icons">
