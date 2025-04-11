@@ -43,9 +43,6 @@ ___
   </style>
 </div>
 
-Visit [https://piggyhodl.xyz](https://piggyhodl.xyz) to see one of the platforms I contributed to!
-
-
 <div class="skill-grid">
   <h3>My professional skills and technologies I worked with: </h3>
 
