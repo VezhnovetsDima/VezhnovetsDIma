@@ -43,17 +43,6 @@ ___
   </style>
 </div>
 
-## 🧪 Web3 Development
-
-Over the past 3 years, I've been actively building in the Web3 ecosystem — focusing on DeFi protocols, DAO tooling, and gamified dApps.
-
-- 🧩 Built and deployed DeFi quest platform interacting with protocols like Uniswap, Aave, and Lido (staking, swaps, lending)
-- 🔎 Created an EVM bytecode-to-opcode-to-solidity decoder for smart contract forensics and bytecode analysis
-- 🏗️ Developed dApps with Solidity, Foundry, Hardhat, Ethers.js, and React (Next.js)
-- 🛠 Integrated on-chain/off-chain infra with Chainlink Automation, The Graph, and IPFS
-- 🎮 Gamified savings and staking (PiggyHodl.xyz) using NFTs, vaults, and ERC-777 tokens
-- ⚙️ Secured protocols using fuzz testing (Foundry/Echidna), invariant checks, and gas optimizations
-
 Visit [https://piggyhodl.xyz](https://piggyhodl.xyz) to see one of the platforms I contributed to!
 
 
@@ -66,6 +55,23 @@ Visit [https://piggyhodl.xyz](https://piggyhodl.xyz) to see one of the platforms
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
       <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
       <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
+     </br>
+     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Foundry-%23111511.svg?style=for-the-badge&logo=foundry&logoColor=white">
+  <img src="https://img.shields.io/badge/Hardhat-FFC107?style=for-the-badge&logo=hardhat&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white">
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/TheGraph-%235054FF.svg?style=for-the-badge&logo=thegraph&logoColor=white">
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethers.js-353840?style=for-the-badge&logo=ethers&logoColor=white">
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Wagmi-3B3B98?style=for-the-badge&logo=data:image/svg+xml;base64&logoColor=white">
+  <img src="https://img.shields.io/badge/Snapshot-black?style=for-the-badge&logo=snapshotlabs&logoColor=white">
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white">
+  <img src="https://img.shields.io/badge/Aave-2EBAC6?style=for-the-badge&logo=aave&logoColor=white">
+  <img src="https://img.shields.io/badge/Lido-0A2FFF?style=for-the-badge&logo=lido&logoColor=white">
+  <img src="https://img.shields.io/badge/Echidna-FC4C02?style=for-the-badge&logoColor=white">
     </div>
   </div>
   
